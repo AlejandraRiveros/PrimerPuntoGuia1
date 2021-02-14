@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Punto1Sueldo</string>
+    <string name="tvTitulo">EMPRESA S.A.S</string>
+    <string name="etNombre">Nombre</string>
+    <string name="etApellidos">Apellidos</string>
+    <string name="etFechaNa">Fecha de Nacimiento</string>
+    <string name="etIngreso">Fecha de ingreso a la empresa</string>
+    <string name="etSueldo">Sueldo base</string>
+    <string name="etHorasExtra">Horas extra</string>
+    <string name="btnImprimir">Imprimir</string>
+    <string name="etHorasT">Horas trabajadas</string>
+    <string name="btnCalculoEdad">Edad</string>
+    <string name="btnSueldo">Sueldo Mensual</string>
+    <string name="tvEspacio"></string>
+    <string name="tvImpresiones"></string>
+    <string name="tvEnunciado">Si no trabajó más de 48 horas coloque 0 en horas extra</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
